@@ -1,6 +1,7 @@
 package com.quiz.quuiz_service;
   
-// This is a response contains id and answer as a response
+// This is a response contains id and answer as a response 
+
 public class Response {
 
 	private Integer id;
